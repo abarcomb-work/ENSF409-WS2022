@@ -36,7 +36,7 @@ All rights reserved.
 
 
 public class AroundTheWorld {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         var data = exampleData();
 
         // Create a new Itinerary object. Order of listings is the same
